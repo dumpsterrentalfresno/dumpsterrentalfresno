@@ -1,16 +1,17 @@
-## Hi there 👋
+# Dumpster Rental Fresno 🗑️
 
-<!--
-**dumpsterrentalfresno/dumpsterrentalfresno** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Affordable roll-off [dumpster rental fresno](https://dumpsterrentalsfresno.com/) homeowners and contractors trust. We deliver 10, 20, 30, and 40-yard dumpsters across Fresno, CA with same-day service and transparent flat-rate pricing.
 
-Here are some ideas to get you started:
+## Why choose us?
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Same-day dumpster delivery in Fresno & Clovis
+- Flat-rate pricing — no hidden fees
+- Driveway-friendly placement
+- Residential, construction & commercial cleanouts
+
+## Contact
+
+- 🌐 Website: https://dumpsterrentalsfresno.com/
+- 📞 Phone: (559) 774-1220
+- 📍 Address: 2735 S Willow Ave, Fresno, CA 93725
+- ✉️ Email: ahmadnawazpubgm@gmail.com
